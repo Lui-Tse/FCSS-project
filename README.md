@@ -13,6 +13,6 @@ We aim to test if there is a correlation between people’s emotions and the 202
 
 **2.**  Python package “**Snscrape**” will use to extract people’s emotions during World Cup.
 
-**3.**  Evaluate against sentiment analysis, which will calculate the mean, median, and standard deviation sentiment scores.
+**3.**  Evaluate against sentiment analysis, **VADER**, and will calculate the mean, median, and standard deviation sentiment scores.
 
 **4.**  Data visualization and correlation test.
