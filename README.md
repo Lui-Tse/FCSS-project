@@ -1,4 +1,6 @@
 # Correlation of Twitter Sentiment Analysis and 2022 FIFA World Cup Performance
+Foundations of Computational Social System Project: Projects -- TU Graz
+
 By Tse Yan Lui, Farzana Akter
 
 
@@ -7,9 +9,9 @@ We aim to test if there is a correlation between people’s emotions and the 202
 
 
 ## Planned data retrieval and analysis to address the questions:
-**1.**  Based on the dataset(https://fbref.com/en/comps/1/stats/World-Cup-Stats), we will use (Gls - GA)/2 per game as performance measurement, Gls: goals per game and GA: goals against per game.
+**1.**  Based on the dataset (https://fbref.com/en/comps/1/stats/World-Cup-Stats), we will use **(Gls - GA)/2** per game as performance measurement, Gls: goals per game and GA: goals against per game.
 
-**2.**  Python package “snscrape” will use to extract people’s emotions during World Cup.
+**2.**  Python package “**Snscrape**” will use to extract people’s emotions during World Cup.
 
 **3.**  Evaluate against sentiment analysis, which will calculate the mean, median, and standard deviation sentiment scores.
 
